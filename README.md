@@ -1,6 +1,6 @@
 # Olá, eu sou Amanda! 👋
 
-Bem-vindo ao meu perfil no GitHub! Sou uma desenvolvedora back-end com o objetivo de criar soluções eficientes e escaláveis usando as melhores práticas e tecnologias modernas para a resolução de problemas simples e complexos. 
+Bem-vindo ao meu perfil no GitHub! Sou uma estudante de Análise e Desenvolvimento de Sistemas em busca de juntar a Tecnologia futurista e a Ciência de nosso mundo mundano e incrível. Enquanto isso, continuo com o objetivo de criar soluções eficientes e escaláveis usando as melhores práticas e tecnologias modernas para a resolução de problemas simples e complexos. 
 
 <br>
 
