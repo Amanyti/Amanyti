@@ -21,15 +21,17 @@ Bem-vindo ao meu perfil no GitHub! Sou uma desenvolvedora back-end com o objetiv
 
 
 
- ###Estou aprendendo
+ ### ✏️ Estou aprendendo
 -**Linguagens de programação:**
+
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg"  width="40" height="40" />
    
  -**Sistemas Operacionais:**
+ 
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg"  width="40" height="40" />
 
 
-### Pretendo aprender em seguida: 
+### 📚 Pretendo aprender em seguida: 
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg"  width="40" height="40" />
     
 
