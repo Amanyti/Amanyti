@@ -33,14 +33,6 @@ Bem-vindo ao meu perfil no GitHub! Sou uma desenvolvedora back-end com o objetiv
 
 <br>
 
-## 🎓 Educação
-
-- **Análise e Desenvolvimento de Sistemas**
-  - Fatec Americana
-  - 2023 - 2025(Em andamento)
-
-<br>
-
 ## 📫 Contato
 
 - **LinkedIn**: (Em desenvolvimento)
