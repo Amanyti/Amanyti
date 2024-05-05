@@ -2,6 +2,7 @@
 
 Bem-vindo ao meu perfil no GitHub! Sou uma desenvolvedora back-end com o objetivo de criar soluções eficientes e escaláveis usando as melhores práticas e tecnologias modernas para a resolução de problemas simples e complexos. 
 
+<br>
 
 ## 🛠️ Tecnologias e Ferramentas
 
@@ -21,10 +22,10 @@ Bem-vindo ao meu perfil no GitHub! Sou uma desenvolvedora back-end com o objetiv
 
 <br>
 
- ### ✏️ Estou aprendendo
+ ### ✏️ Aprendizagem em andamento:
 -**Linguagens de programação:**
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg"  width="40" height="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg"  width="40" height="40" /> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg"  width="40" height="40" />
    
  -**Sistemas Operacionais:**
  
@@ -32,17 +33,13 @@ Bem-vindo ao meu perfil no GitHub! Sou uma desenvolvedora back-end com o objetiv
 
 <br>
 
-### 📚 Pretendo aprender em seguida: 
-<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg"  width="40" height="40" />
-    
-
-
 ## 🎓 Educação
 
 - **Análise e Desenvolvimento de Sistemas**
   - Fatec Americana
   - 2023 - 2025(Em andamento)
 
+<br>
 
 ## 📫 Contato
 
