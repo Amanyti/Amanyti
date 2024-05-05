@@ -45,7 +45,6 @@ Bem-vindo ao meu perfil no GitHub! Sou uma desenvolvedora back-end com o objetiv
 
 - **LinkedIn**: (Em desenvolvimento)
 - **Email**: amanda.e.queiroz2003@gmail.com
-<br>
 ---
 <br>
 Obrigada por visitar meu perfil! Sinta-se à vontade para entrar em contato para colaborações ou oportunidades de trabalho.
