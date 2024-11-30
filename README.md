@@ -35,7 +35,7 @@ Bem-vindo ao meu perfil no GitHub! Sou uma estudante de Análise e Desenvolvimen
 
 ## 📫 Contato
 
-- **LinkedIn**: (Em desenvolvimento)
+- **LinkedIn**: www.linkedin.com/in/amanda-errera-de-queiroz
 - **Email**: amanda.e.queiroz2003@gmail.com
 ---
 <br>
