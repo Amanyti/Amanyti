@@ -5,25 +5,16 @@ style"padding-right: 10px;"
 
 <h2>📊 GitHub Stats</h2> 
 <div>
-  <img
-  align="left"
-  height="200"
-  src="https://github-readme-stats.vercel.app/api?username=Amanyti&theme=radical&hide_border=true&include_all_commits=true&count_private=true"
-  />
-
-<img
-  align="right"
-  height="200"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amanyti&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact"
-  />
+  <img align="left" height="200" src="https://github-readme-stats.vercel.app/api?username=Amanyti&theme=shadow_green&hide_border=true&include_all_commits=true&count_private=true" />
+<img align="left" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amanyti&theme=shadow_green&hide_border=true&include_all_commits=true&count_private=true&layout=compact" />
 </div>
 
+<br>
 
-  </br>
-  
   <div align="center" >
-     <img height="250" src="https://github-readme-streak-stats.herokuapp.com/?user=Amanyti&theme=radical&hide_border=true"/> 
-     <img height="250" src="https://github-contributor-stats.vercel.app/api?username=Amanyti&limit=5&theme=radical&combine_all_yearly_contributions=true"/>
+     <img height="250" src="https://github-readme-streak-stats.herokuapp.com/?user=Amanyti&theme=shadow_green&hide_border=true"/> 
+    <br>
+     <img height="250" src="https://github-contributor-stats.vercel.app/api?username=Amanyti&limit=5&theme=shadow_green&combine_all_yearly_contributions=true&hide_border=true"/>
   </div>
 
 
