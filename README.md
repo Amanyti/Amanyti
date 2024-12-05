@@ -10,15 +10,14 @@ Bem-vindo ao meu perfil no GitHub! Sou uma estudante de Análise e Desenvolvimen
 
 <br>
 
-  <div align="center" >
-     <img height="200" src="https://github-readme-streak-stats.herokuapp.com/?user=Amanyti&theme=shadow_green&hide_border=false"/> 
-    <br>
-     <img height="200" src="https://github-contributor-stats.vercel.app/api?username=Amanyti&limit=5&theme=shadow_green&combine_all_yearly_contributions=true&hide_border=false"/>
+  <div >
+     <img align="left" height="200" src="https://github-readme-streak-stats.herokuapp.com/?user=Amanyti&theme=shadow_green&hide_border=false"/> 
+     <img align="right" height="200" src="https://github-contributor-stats.vercel.app/api?username=Amanyti&limit=5&theme=shadow_green&combine_all_yearly_contributions=true&hide_border=false"/>
   </div>
   
 <br>
 
-<div>
+<div position"relative">
   
   <h2>🛠️ Tecnologias e Ferramentas</h2> 
   
