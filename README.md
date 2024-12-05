@@ -1,19 +1,15 @@
-<!-- <h1>Olá, eu sou Amanda! 👋</h1>
+ <h1>Olá, eu sou Amanda! 👋</h1>
 Bem-vindo ao meu perfil no GitHub! Sou uma estudante de Análise e Desenvolvimento de Sistemas em busca de juntar a Tecnologia futurista e a Ciência de nosso mundo mundano e incrível. Enquanto isso, continuo com o objetivo de criar soluções eficientes e escaláveis usando as melhores práticas e tecnologias modernas para a resolução de problemas simples e complexos. 
 <br/>
 
 
   <h2>📊 GitHub Stats</h2> 
-  <div>
-  <img align="left" height="180" src="https://github-readme-stats.vercel.app/api?username=Amanyti&theme=shadow_green&hide_border=false&include_all_commits=true&count_private=true" />
-  <img align="right" height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amanyti&theme=shadow_green&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
-  </div>
-
-  <br/>
-
-  <div >
-     <img align="left" height="200" src="https://github-readme-streak-stats.herokuapp.com/?user=Amanyti&theme=shadow_green&hide_border=false"/> 
-     <img height="200" src="https://github-contributor-stats.vercel.app/api?username=Amanyti&limit=5&theme=shadow_green&combine_all_yearly_contributions=true&hide_border=false"/>
+  <div display="flex">
+    <img align="left" height="180" src="https://github-readme-stats.vercel.app/api?username=Amanyti&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true" />
+    <img align="right" height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amanyti&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
+    <br>
+       <img align="left" height="200" src="https://github-readme-streak-stats.herokuapp.com/?user=Amanyti&theme=shadow_blue&hide_border=false"/> 
+       <img height="200" src="https://github-contributor-stats.vercel.app/api?username=Amanyti&limit=5&theme=shadow_blue&combine_all_yearly_contributions=true&hide_border=false"/>
   </div>
 
 
@@ -22,8 +18,8 @@ Bem-vindo ao meu perfil no GitHub! Sou uma estudante de Análise e Desenvolvimen
 
   <h2>🛠️ Tecnologias e Ferramentas</h2> 
   <h3>Linguagens:</h3>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="40" height="40" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg"  width="40" height="40" /> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40" height="40" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"  width="40" height="40" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"  width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg"  width="40" height="40" /> 
+  <div display="flex">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg"  width="40" height="40" /> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"  width="40" height="40" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"  width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg"  width="40" height="40" /> </div>
 
  <h3>Bancos de Dados:</h3>
  
@@ -38,7 +34,7 @@ Bem-vindo ao meu perfil no GitHub! Sou uma estudante de Análise e Desenvolvimen
 <br/>
 
  <h3>✏️ Aprendizagens em andamento:</h3> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg"  width="40" height="40" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain-wordmark.svg" height="40" />
+ <div display="flex"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg"  width="40" height="40" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain-wordmark.svg" height="40" /> </div>
 
 <br>
 
@@ -47,6 +43,6 @@ Bem-vindo ao meu perfil no GitHub! Sou uma estudante de Análise e Desenvolvimen
 
 Obrigada por visitar meu perfil! Sinta-se à vontade para entrar em contato para colaborações ou oportunidades de trabalho.
 
- -->
+ 
 
  <h1>EM CONSTRUÇÃO</h1>
