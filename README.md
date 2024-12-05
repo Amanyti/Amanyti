@@ -4,16 +4,16 @@ Bem-vindo ao meu perfil no GitHub! Sou uma estudante de Análise e Desenvolvimen
 
 <h2>📊 GitHub Stats</h2> 
 <div>
-  <img align="left" height="150" src="https://github-readme-stats.vercel.app/api?username=Amanyti&theme=shadow_green&hide_border=true&include_all_commits=true&count_private=true" />
-<img align="left" height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amanyti&theme=shadow_green&hide_border=true&include_all_commits=true&count_private=true&layout=compact" />
+  <img align="left" height="180" src="https://github-readme-stats.vercel.app/api?username=Amanyti&theme=shadow_green&hide_border=false&include_all_commits=true&count_private=true" />
+<img align="right" height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amanyti&theme=shadow_green&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
 </div>
 
 <br>
 
   <div align="center" >
-     <img height="250" src="https://github-readme-streak-stats.herokuapp.com/?user=Amanyti&theme=shadow_green&hide_border=true"/> 
+     <img height="200" src="https://github-readme-streak-stats.herokuapp.com/?user=Amanyti&theme=shadow_green&hide_border=false"/> 
     <br>
-     <img height="250" src="https://github-contributor-stats.vercel.app/api?username=Amanyti&limit=5&theme=shadow_green&combine_all_yearly_contributions=true&hide_border=true"/>
+     <img height="200" src="https://github-contributor-stats.vercel.app/api?username=Amanyti&limit=5&theme=shadow_green&combine_all_yearly_contributions=true&hide_border=false"/>
   </div>
   
 <br>
