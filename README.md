@@ -5,11 +5,14 @@ Bem-vindo ao meu perfil no GitHub! Sou uma estudante de Análise e Desenvolvimen
 
   <h2>📊 GitHub Stats</h2> 
   <div display="flex">
+   <div align="center">
     <img align="left" height="180" src="https://github-readme-stats.vercel.app/api?username=Amanyti&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true" />
-    <img align="right" height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amanyti&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
-    <br>
-       <img align="left" height="200" src="https://github-readme-streak-stats.herokuapp.com/?user=Amanyti&theme=shadow_blue&hide_border=false"/> 
-       <img alignn="right" height="200" src="https://github-contributor-stats.vercel.app/api?username=Amanyti&limit=5&theme=shadow_blue&combine_all_yearly_contributions=true&hide_border=false"/>
+    <img align="left" height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amanyti&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
+   </div>
+   <div align="center">
+    <img align="left" height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Amanyti&theme=shadow_blue&hide_border=false"/> 
+    <img alignn="left" height="170" src="https://github-contributor-stats.vercel.app/api?username=Amanyti&limit=5&theme=shadow_blue&combine_all_yearly_contributions=true&hide_border=false"/>
+   </div>
   </div>
 
 
@@ -42,7 +45,3 @@ Bem-vindo ao meu perfil no GitHub! Sou uma estudante de Análise e Desenvolvimen
 [![](https://visitcount.itsvg.in/api?id=Amanyti&icon=5&color=6)](https://visitcount.itsvg.in)
 
 Obrigada por visitar meu perfil! Sinta-se à vontade para entrar em contato para colaborações ou oportunidades de trabalho.
-
- 
-
- <h1>EM CONSTRUÇÃO</h1>
