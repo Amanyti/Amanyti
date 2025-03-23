@@ -1,6 +1,7 @@
 
-![Design sem nome](https://github.com/user-attachments/assets/6050ffae-a648-4840-a51f-8bd4b38d637b)
+![Programming is like space infinite, with each line of code a star and each algorithm a galaxy  – ChatGPT](https://github.com/user-attachments/assets/6f702a15-5e4d-415b-a075-3227ce7dbb00)
 ---
+
 
  Olá, eu sou Amanda! 👋
  
@@ -54,14 +55,17 @@
  </div>
  </div>
  
-[![](https://visitcount.itsvg.in/api?id=Amanyti&icon=5&color=6)](https://visitcount.itsvg.in)
+
+
 
 Obrigada por visitar meu perfil! Sinta-se à vontade para entrar em contato para colaborações ou oportunidades de trabalho.
 
 ` Thank you for visiting my profile! Feel free to reach out for collaborations or job opportunities. `
 
 ---
-![Programming is like space infinite, with each line of code a star and each algorithm a galaxy  – ChatGPT](https://github.com/user-attachments/assets/660549a2-19f6-49c3-a92b-c689e9578745)
+![Programming is like space infinite, with each line of code a star and each algorithm a galaxy  – ChatGPT  (1)](https://github.com/user-attachments/assets/7759a1e9-3c1d-4f83-a184-92de862745ab)
+
+
 
 
 
